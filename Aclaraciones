@@ -1,0 +1,15 @@
+#Pasos para ejecutar Clientesapp.py
+
+Para ejecutar la app web de Clientesapp.py, hay una serie de pasos a realizar:
+1: Tener instalado Python en el sistema(al usar tensorflow es recomendable tener Python 10)
+
+2: crear un entorno virtual en la misma carpeta
+
+3: asegurarse de que estén todas las librerías importadas e instaladas
+
+4: Ejecutar el código
+
+5: En la terminal ejecutar: streamlit run Clientesapp.py
+
+# Al seguir estos pasos, se abrira una pestaña en el navegador predeterminado y se mostrará la interfaz gráfica de streamlit
+# mostrando la app web de Predicción de Diabetes
